@@ -7,6 +7,7 @@ export default function Profilepic() {
       width={500}
       height={500}
       alt="Picture of the author"
+      className='rounded-full m-10'
     />
   )
 }
