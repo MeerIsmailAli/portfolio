@@ -28,7 +28,7 @@ const ToggleSections = ({activeSection}) => {
       <p className="mt-4 text-base sm:text-lg md:text-xl text-justify max-w-3xl">
         Hi, this is my attempt at creating a portfolio page.<br />
         Here's a brief about me:<br />
-        I did my engineering at National Institute of Technology Karnataka, Surathkal.
+        I did my bachelor's in engineering at National Institute of Technology Karnataka, Surathkal.
         I have experience in building and deploying full stack web apps and setting up local LLMs.
         You can scroll down to find out more about my projects or check out my GitHub.
       </p>
